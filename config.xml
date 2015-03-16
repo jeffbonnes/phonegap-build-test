@@ -9,6 +9,7 @@
   </author>
   <content src="index.html" />
   <access origin="*" />
+  <icon src="icon.png" />
   <platform name="android">
     <icon src=".pgbomit/res/android/res-ldpi/appicon.png" density="ldpi" />
     <icon src=".pgbomit/res/android/res-mdpi/appicon.png" density="mdpi" />
