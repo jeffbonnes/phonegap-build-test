@@ -21,7 +21,6 @@
     <splash src="res/android/res-ldpi/default.png" density="port-ldpi"/>
     <splash src="res/android/res-mdpi/default.png" density="port-mdpi"/>
     <splash src="res/android/res-xhdpi/default.png" density="port-xhdpi"/>
-    -xhdpi"/>
   </platform>
 
   <platform name="ios">
